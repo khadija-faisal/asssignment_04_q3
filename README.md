@@ -1,6 +1,4 @@
-Here’s a README-like summary that includes all the functions, their arguments, and the topics for each part of your assignment:
 
----
 
 # Assignment No 4 - Python
 
